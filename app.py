@@ -1,7 +1,7 @@
 """
 @author: António Brito / Carlos Bragança
 (2024)
-#objective: Flask example for class Person
+#objective: Fl ask example for class Person
 """""
 from flask import Flask, render_template, request
 from classes.Person import Person
